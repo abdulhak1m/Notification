@@ -1,0 +1,9 @@
+G:\WinFormApp (Сентябрь)\Notification\bin\Release\Notification.exe.config
+G:\WinFormApp (Сентябрь)\Notification\bin\Release\Notification.exe
+G:\WinFormApp (Сентябрь)\Notification\bin\Release\Notification.pdb
+G:\WinFormApp (Сентябрь)\Notification\obj\Release\Notification.Form1.resources
+G:\WinFormApp (Сентябрь)\Notification\obj\Release\Notification.Properties.Resources.resources
+G:\WinFormApp (Сентябрь)\Notification\obj\Release\Notification.csproj.GenerateResource.cache
+G:\WinFormApp (Сентябрь)\Notification\obj\Release\Notification.csproj.CoreCompileInputs.cache
+G:\WinFormApp (Сентябрь)\Notification\obj\Release\Notification.exe
+G:\WinFormApp (Сентябрь)\Notification\obj\Release\Notification.pdb
